@@ -1,2 +1,3 @@
 this is my firzst git hub program 
-starting is hard than we think
+starting is hard than we think.
+bnow i am modifying the orogram 
